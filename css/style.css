@@ -33,3 +33,34 @@ body {
   font-family: 'Pompiere', cursive;
 
 }
+
+header {
+  margin: auto;
+  text-align: center;
+}
+
+li {
+  padding: 5px;
+  display: inline;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+aside {
+  margin: 0;
+  width: 20%;
+  float: left;
+  padding: 5px;
+}
+
+section {
+  margin: 0;
+  width: 60%;
+  float: left;
+  padding:5px;
+}
+
+footer {
+  clear: both;
+  margin: 0;
+}
